@@ -6,6 +6,7 @@
     </picture>
   </h1>
 </a>
+![WORKING](https://www.linkpicture.com/q/image_2023-03-19_152543091.png)
 
 [![Build Status - Cirrus][]][Build status]
 [![Discord badge][]][Discord instructions]
